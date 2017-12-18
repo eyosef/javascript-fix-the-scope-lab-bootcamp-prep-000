@@ -2,7 +2,6 @@ var animal = 'dog';
 
 function myAnimal() {
   return animal
-  console.log('dog')
 }
 
 function yourAnimal() {
